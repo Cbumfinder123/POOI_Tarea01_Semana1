@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Tareas\\Tarea_Pool1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A59E68B-A19F-4BDA-B9BA-0CCFF39C64B1}|Problema9\\Problema9.csproj|c:\\users\\user\\downloads\\tareas\\tarea_pool1\\problema9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A59E68B-A19F-4BDA-B9BA-0CCFF39C64B1}|Problema9\\Problema9.csproj|solutionrelative:problema9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5787CB-7ACD-4EA1-867B-884FF6B823C3}|Problema8\\Problema8.csproj|c:\\users\\user\\downloads\\tareas\\tarea_pool1\\problema8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5787CB-7ACD-4EA1-867B-884FF6B823C3}|Problema8\\Problema8.csproj|solutionrelative:problema8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A59E68B-A19F-4BDA-B9BA-0CCFF39C64B1}|Problema9\\Problema9.csproj|c:\\users\\user\\downloads\\tareas\\tarea_pool1\\problema9\\pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A59E68B-A19F-4BDA-B9BA-0CCFF39C64B1}|Problema9\\Problema9.csproj|solutionrelative:problema9\\pelota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pelota.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Tareas\\Tarea_Pool1\\Problema9\\Pelota.cs",
+              "RelativeDocumentMoniker": "Problema9\\Pelota.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Tareas\\Tarea_Pool1\\Problema9\\Pelota.cs",
+              "RelativeToolTip": "Problema9\\Pelota.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vykAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:10:18.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Tareas\\Tarea_Pool1\\Problema9\\Program.cs",
+              "RelativeDocumentMoniker": "Problema9\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Tareas\\Tarea_Pool1\\Problema9\\Program.cs",
+              "RelativeToolTip": "Problema9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:09:35.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Tareas\\Tarea_Pool1\\Problema8\\Program.cs",
+              "RelativeDocumentMoniker": "Problema8\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Tareas\\Tarea_Pool1\\Problema8\\Program.cs",
+              "RelativeToolTip": "Problema8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:57:14.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

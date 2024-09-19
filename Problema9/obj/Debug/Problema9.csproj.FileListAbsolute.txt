@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Problema9\bin\Debug\Problema9.exe.config
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Problema9\bin\Debug\Problema9.exe
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Problema9\bin\Debug\Problema9.pdb
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Problema9\obj\Debug\Problema9.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Problema9\obj\Debug\Problema9.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Problema9\obj\Debug\Problema9.exe
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Problema9\obj\Debug\Problema9.pdb

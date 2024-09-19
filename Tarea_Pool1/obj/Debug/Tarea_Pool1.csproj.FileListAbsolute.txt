@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Tarea_Pool1\bin\Debug\Tarea_Pool1.exe.config
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Tarea_Pool1\bin\Debug\Tarea_Pool1.exe
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Tarea_Pool1\bin\Debug\Tarea_Pool1.pdb
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Tarea_Pool1\obj\Debug\Tarea_Pool1.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Tarea_Pool1\obj\Debug\Tarea_Pool1.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Tarea_Pool1\obj\Debug\Tarea_Pool1.exe
+C:\Users\User\Downloads\Tareas\Tarea_Pool1\Tarea_Pool1\obj\Debug\Tarea_Pool1.pdb
